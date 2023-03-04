@@ -2,21 +2,21 @@
 
 * [The Ops Compendium](README.md)
 * [Definitions](chatgpt-definitions.md)
-  * [Ops Definition Compairons](ops-definitions.md)
+  * [Ops Definition Comparisons](definitions/ops-definition-comparisons.md)
 * [ML & DL Compendium](https://book.mlcompendium.com)
 
 ## MLOps
 
-* [MLOps Interview Questions](mlops/mlops-interview-questions.md)
 * [Literature](mlops/literature.md)
+* [MLOps Patterns](mlops/mlops.md)
 * [Design Patterns](mlops/design-patterns.md)
+* [ML Model Monitoring & Alerts](mlops/mlops-monitoring-and-alerts.md)
 * [MLOps Tools](mlops/full-stack-and-ops.md)
+* [Model Formats](mlops/model-formats.md)
 * [Experiment Management](mlops/experiment-management.md)
 * [Feature Stores & Feature Pipelines](mlops/feature-stores-and-feature-pipelines.md)
-* [MLOps Patterns](mlops/mlops.md)
-* [ML Model Monitoring & Alerts](mlops/mlops-monitoring-and-alerts.md)
-* [Model Formats](mlops/model-formats.md)
 * [AI As Data](mlops/ai-as-data.md)
+* [MLOps Interview Questions](mlops/mlops-interview-questions.md)
 
 ## DataOps
 
