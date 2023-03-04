@@ -1,4 +1,4 @@
-# ChatGPT Definitions
+# Definitions
 
 I asked ChatGPT "what are DataOps, MLOps, GitOps , DevOps and the DevSecOps professions?
 

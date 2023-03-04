@@ -1,8 +1,8 @@
 # Table of contents
 
 * [The Ops Compendium](README.md)
-* [Definitions](definitions/README.md)
-  * [Ops Definition Compairons](definitions/ops-definition-compairons.md)
+* [Definitions](chatgpt-definitions.md)
+  * [Ops Definition Compairons](ops-definitions.md)
 * [ML & DL Compendium](https://book.mlcompendium.com)
 
 ## MLOps
@@ -44,4 +44,4 @@
 
 ## DevSecOps
 
-* [Definitions](devsecops/definitions.md)
+* [Definitions](devsecops/tbd.md)

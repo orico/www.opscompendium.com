@@ -6,4 +6,5 @@ The Ops Compendium is a fully open project on GitBook & GitHub (please star it!)
 
 Please keep in mind that this is a perpetual work in progress with a variety of topics. If you feel that something should be changed, you can now easily contribute using GitBook, GitHub, or [contact me](https://www.linkedin.com/in/cohenori/).
 
-Many Thanks, [Dr. Ori Cohen](http://cohenori.medium.com) | [LinkedIn](https://www.linkedin.com/in/cohenori/)| [Medium](https://medium.com/@cohenori) | [OriCohen.com](https://www.oricohen.com) | [MLCompendium.com](http://www.mlcompendium.com) | book.opscompendium.com
+Many Thanks, \
+[Dr. Ori Cohen](http://cohenori.medium.com) | [LinkedIn](https://www.linkedin.com/in/cohenori/)| [Medium](https://medium.com/@cohenori) | [OriCohen.com](https://www.oricohen.com) | [MLCompendium.com](http://www.mlcompendium.com) | [OpsCompendium.com](https://www.opscompendium.com/)
