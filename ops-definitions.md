@@ -1,4 +1,4 @@
-# Ops Definition Compairons
+# Ops Definition Comparisons
 
 * [Dev vs ops, vs devops vs sre - history and details by google.](https://www.youtube.com/watch?v=tEylFyxbDLE\&list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj\&index=2)
 * [Sre vs devops](https://medium.com/hackernoon/sre-vs-devops-the-dilemma-f7054714525c)

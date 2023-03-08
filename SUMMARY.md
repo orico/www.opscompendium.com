@@ -2,7 +2,7 @@
 
 * [The Ops Compendium](README.md)
 * [Definitions](chatgpt-definitions.md)
-  * [Ops Definition Comparisons](definitions/ops-definition-comparisons.md)
+  * [Ops Definition Comparisons](ops-definitions.md)
 * [ML & DL Compendium](https://book.mlcompendium.com)
 
 ## MLOps
@@ -45,3 +45,7 @@
 ## DevSecOps
 
 * [Definitions](devsecops/tbd.md)
+
+## Architecture
+
+* [Problems](architecture/problems.md)
