@@ -8,6 +8,7 @@
 ## MLOps
 
 * [Literature](mlops/literature.md)
+* [MLOps Course](mlops/mlops-course.md)
 * [MLOps Patterns](mlops/mlops.md)
 * [Design Patterns](mlops/design-patterns.md)
 * [ML Model Monitoring & Alerts](mlops/mlops-monitoring-and-alerts.md)

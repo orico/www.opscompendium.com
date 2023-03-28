@@ -1,5 +1,7 @@
 # MLOps Patterns
 
+## General Patterns
+
 1. [ML product lifecycle patterns ](https://towardsdatascience.com/understanding-ml-product-lifecycle-patterns-a39c18302452)
 2. [**Awesome MLOps**](https://github.com/visenger/awesome-mlops)
 
@@ -17,4 +19,9 @@
 
 1. **Metaflow, medium** [**1**](https://medium.com/bigdatarepublic/a-review-of-netflixs-metaflow-65c6956e168d) **(high level review),** [**2**](https://medium.com/acing-ai/decoding-netflix-metaflow-2ad84b36199e) **(schema),** [**3**](https://medium.com/analytics-vidhya/metaflow-by-netflix-the-good-the-bad-and-the-ugly-b7fc6a833484)**,** [**\*\*4**](https://towardsdatascience.com/learn-metaflow-in-10-mins-netflixs-python-r-framework-for-data-scientists-2ef124c716e4) **(amazing),** [**5**](https://towardsdatascience.com/be-more-efficient-to-produce-machine-learning-pipeline-with-metaflow-db5f943ebbe7) **(extra),** [**6**](https://docs.metaflow.org/metaflow/data) **(loading and storing data docs!)**
 2. **HyperparameterHunter,** [**Hyperopt, mlflow, unit test, concept drifts, using python and kafka**](https://towardsdatascience.com/putting-ml-in-production-ii-logging-and-monitoring-algorithms-91f174044e4e)
+
+## Patterns in Practice
+
+1. An MLOps End-to-End system, i.e., "[You dont need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)", using MetaFlow, Snowflake, DBT, Prefect, Great Expectations, Weights & Biases, Sagemaker, Lambda
+2. [A simplistic E2E system](https://github.com/jacopotagliabue/post-modern-stack) - Snowflake, DBT, S3, CometML, Reclist, SageMaker.
 
