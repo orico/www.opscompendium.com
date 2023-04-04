@@ -13,3 +13,4 @@
    * [MLOps & Kubernetes ](https://www.analyticsvidhya.com/blog/2022/09/mlops-and-use-of-kubernetes/) - a very sparse intro
    * [High level E2E architecture and explanations](https://www.analyticsvidhya.com/blog/2023/02/mlops-end-to-end-mlops-architecture-and-workflow/)
    * [High level E2E concepts](https://www.analyticsvidhya.com/blog/2021/07/deepdive-into-the-emerging-concpet-of-machine-learning-operations-or-mlops/)
+4. MLOps without Ops series [Part 1](https://towardsdatascience.com/mlops-without-much-ops-d17f502f76e8), [Part 2](https://towardsdatascience.com/ml-and-mlops-at-a-reasonable-scale-31d2c0782d9c), [Part 3](https://towardsdatascience.com/hagakure-for-mlops-the-four-pillars-of-ml-at-reasonable-scale-5a09bd073da), [Part 4](https://towardsdatascience.com/the-modern-data-pattern-d34d42216c81)
