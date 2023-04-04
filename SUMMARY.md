@@ -7,6 +7,7 @@
 
 ## MLOps
 
+* [MLOps Intro](mlops/mlops-intro.md)
 * [Literature](mlops/literature.md)
 * [MLOps Course](mlops/mlops-course.md)
 * [MLOps Patterns](mlops/mlops.md)
