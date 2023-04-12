@@ -20,4 +20,5 @@
 8. [The next gen of architecture](https://datagrad.medium.com/data-mesh-transition-to-next-generation-of-data-architecture-832c4bc27e9f)
 9. [how not to mesh it - monte carlo](https://www.montecarlodata.com/blog-what-is-a-data-mesh-and-how-not-to-mesh-it-up/)
 10. [building data mesh using lake house approach](https://www.youtube.com/watch?v=YPYODx4Pfdc) by aws
-11. [enterprise datamesh by oracle](https://www.oracle.com/a/ocom/docs/datamesh-ebook.pdf)
+11. [enterprise data mesh by oracle](https://www.oracle.com/a/ocom/docs/datamesh-ebook.pdf)
+12. [deconstructing data mesh principles](https://medium.com/slalom-data-ai/data-mesh-232e50f42e66)
