@@ -15,3 +15,4 @@
 11. [create a data strategy](https://towardsdatascience.com/data-strategy-make-data-count-fa42b42d409) - a meta discussion
 12. [data strategy for AI](https://medium.com/mmc-writes/the-ai-playbook-how-to-develop-a-data-strategy-for-ai-d74df9486c0e)
 13. [how to create a successful data strategy](https://towardsdatascience.com/how-to-create-a-successful-data-strategy-1293bacf463c)
+14. [Definition taken from DAMA](https://www.cleverrepublic.com/what-is/data-strategy/), what is [data management](https://www.cleverrepublic.com/what-is/data-management/), and [intelligence](https://www.cleverrepublic.com/what-is/data-intelligence/)

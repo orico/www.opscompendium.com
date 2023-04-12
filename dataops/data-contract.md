@@ -12,7 +12,7 @@
 
 ## Implementation
 
-1. ****[**JSON Schema**](https://json-schema.org/) is a vocabulary that allows you to **annotate** and **validate** JSON documents, [example](https://json-schema.org/learn/miscellaneous-examples.html).
+1. [**JSON Schema**](https://json-schema.org/) is a vocabulary that allows you to **annotate** and **validate** JSON documents, [example](https://json-schema.org/learn/miscellaneous-examples.html).
 2. protobuf & gRPC
    1. [Protobuf on git](https://github.com/protocolbuffers/protobuf/tree/main/python), [google dev](https://developers.google.com/protocol-buffers)
    2. [what is gRPC?](https://grpc.io/docs/what-is-grpc/introduction/)
