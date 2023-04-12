@@ -12,4 +12,5 @@
 
 
 7. [Data Mesh & MLOps using a data platform.](https://medium.com/swlh/building-a-data-platform-to-enable-analytics-and-ai-driven-innovation-1bd95e37efb9)
-8.
+8. [Explained](https://medium.com/@david.c.dupuis/data-mesh-explained-a95b6ae50878)
+9. [The next gen of architecture](https://datagrad.medium.com/data-mesh-transition-to-next-generation-of-data-architecture-832c4bc27e9f)
