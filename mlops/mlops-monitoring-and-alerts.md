@@ -9,6 +9,7 @@
 * [**Mlflow, Hyperparameterhunter,hyperopt, concept drift, unit tests.**](https://towardsdatascience.com/putting-ml-in-production-ii-logging-and-monitoring-algorithms-91f174044e4e)
 * [**meta anomaly over multiple models, aggregate.**](https://www.anodot.com/blog/monitoring-machine-learning/)
 * [**Vidhya on monitoring data & models**](https://www.analyticsvidhya.com/blog/2019/10/deployed-machine-learning-model-post-production-monitoring/)
+* [Monitor ML features using Amazon SageMaker Feature Store and AWS Glue DataBrew](https://towardsdatascience.com/monitor-ml-features-using-amazon-sagemaker-feature-store-and-aws-glue-databrew-c530abcc479a)
 
 ### **Drift**
 
