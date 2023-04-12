@@ -3,7 +3,8 @@
 ## General Patterns
 
 1. [ML product lifecycle patterns ](https://towardsdatascience.com/understanding-ml-product-lifecycle-patterns-a39c18302452)
-2. [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+2. [ML design patterns book repo](https://github.com/GoogleCloudPlatform/ml-design-patterns)
+3. [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 
 ![Visenger](https://lh4.googleusercontent.com/6Dd5yQHT\_iJxIGqiCSmHLs5m4nVb4by\_ovEoBjrJTFcUoEvh7nmiNWpb84TJQcd5IWuSy5vElL6nFsXv5NkOKzo0Juc1ZVzX1jr3BWVgIrfhTIfGggSysNOZABG5-6h4vB8\_kQ9q)
 
