@@ -43,6 +43,7 @@
 * [Data Product](dataops/data-product.md)
 * [Data Engineering Questions & Training](dataops/data-engineering-questions-and-training.md)
 * [Data Patterns](dataops/patterns.md)
+* [Data Architecture](dataops/data-architecture.md)
 
 ## DevOps
 
