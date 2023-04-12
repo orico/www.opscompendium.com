@@ -9,3 +9,7 @@
 
 
     <figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+
+
+7. [Data Mesh & MLOps using a data platform.](https://medium.com/swlh/building-a-data-platform-to-enable-analytics-and-ai-driven-innovation-1bd95e37efb9)
+8.

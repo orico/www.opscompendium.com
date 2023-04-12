@@ -38,6 +38,7 @@
 * [Data Quality](dataops/data-quality.md)
 * [Data Observability](dataops/data-observability.md)
 * [Data Program Management](dataops/data-program-management.md)
+* [Data KPIs](dataops/data-kpis.md)
 * [Data Mesh](dataops/data-mesh.md)
 * [Data Contract](dataops/data-contract.md)
 * [Data Product](dataops/data-product.md)
