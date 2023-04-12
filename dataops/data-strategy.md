@@ -1,7 +1,10 @@
 # Data Strategy
 
 1. (excellent) [how to get started](https://towardsdatascience.com/data-strategy-716059d5c066)
-2. (excellent) [7 elements of data strategy](https://www.analytics8.com/blog/7-elements-of-a-data-strategy/) - you can deep dive into other articles
+2. Analytics 8(excellent)&#x20;
+   1. [7 elements of data strategy](https://www.analytics8.com/blog/7-elements-of-a-data-strategy/) - you can deep dive into other articles
+   2. [7 tips for strong data infra](https://www.analytics8.com/blog/7-tips-for-strong-data-infrastructure/)
+   3. [step 2/5 how to develop it](https://www.analytics8.com/blog/how-to-develop-data-strategy-roadmap/)
 3. (very good) [research data strategy - for research orgs](https://towardsdatascience.com/research-data-strategy-2fd447f83719)
 4. [how to create an effective DS](https://medium.com/method-perspectives/how-to-create-an-effective-data-strategy-ffedb1bdc71a) - helps to ask the right questions on several topics
 5. (needed) [RACI matrix](https://en.wikipedia.org/wiki/Responsibility\_assignment\_matrix) by wikipedia
@@ -22,3 +25,6 @@
 18. [Data before ML Strategy](https://medium.com/machine-learning-in-practice/first-things-first-you-need-a-data-strategy-before-you-can-have-a-machine-learning-strategy-366f8439aedf)
 19. [from a product POV](https://towardsdatascience.com/connect-the-dots-in-data-strategy-56f65a1e63a5)
 20. [Data Advantage Matrix](https://towardsdatascience.com/data-advantage-matrix-a-new-way-to-think-about-data-strategy-4178cd2f520a)
+21. [create an effective strategy](https://medium.com/method-perspectives/how-to-create-an-effective-data-strategy-ffedb1bdc71a)
+22. [how to get started](https://towardsdatascience.com/data-strategy-716059d5c066)
+

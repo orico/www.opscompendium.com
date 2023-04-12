@@ -28,17 +28,19 @@
 * [Lakes & Warehouses](dataops/lakes-and-warehouses.md)
 * [Database Architecture & Modeling](dataops/database-architecture-and-modeling.md)
 * [Data Engineering](dataops/data-engineering.md)
-* [Data Patterns](dataops/patterns.md)
 * [Data Pipelines](dataops/data-pipelines.md)
 * [Data Strategy](dataops/data-strategy.md)
+* [Data Teams](dataops/data-teams.md)
 * [Data Catalogs](dataops/data-catalogs.md)
 * [Data Governance](dataops/data-governance.md)
+* [Data Quality](dataops/data-quality.md)
 * [Data Observability](dataops/data-observability.md)
 * [Data Program Management](dataops/data-program-management.md)
 * [Data Mesh](dataops/data-mesh.md)
 * [Data Contract](dataops/data-contract.md)
 * [Data Product](dataops/data-product.md)
 * [Data Engineering Questions & Training](dataops/data-engineering-questions-and-training.md)
+* [Data Patterns](dataops/patterns.md)
 
 ## DevOps
 

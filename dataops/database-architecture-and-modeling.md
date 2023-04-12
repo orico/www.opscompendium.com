@@ -13,3 +13,7 @@
    7. (good) [k2view](https://www.k2view.com/what-is-data-fabric) - has a great figure of integration storage catalog, cleansing & masking, transformation & enrichment, governance, webservices.
    8. (good) [tibco](https://www.tibco.com/reference-center/what-is-data-fabric) - application & services, dev & integration, security, storage management, transport, endpoints.
 3. [data virtualization](https://www.ibm.com/analytics/data-virtualization) - single view without movement of data.
+
+## Data Warehouse
+
+1. (good) [a guide from strategy to implementation](https://www.analytics8.com/blog/what-is-a-data-warehouse/)
