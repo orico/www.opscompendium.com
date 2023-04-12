@@ -30,6 +30,7 @@
 * [Data Engineering](dataops/data-engineering.md)
 * [Data Pipelines](dataops/data-pipelines.md)
 * [Data Strategy](dataops/data-strategy.md)
+* [Data Vision](dataops/data-vision.md)
 * [Data Teams](dataops/data-teams.md)
 * [Data Catalogs](dataops/data-catalogs.md)
 * [Data Governance](dataops/data-governance.md)
