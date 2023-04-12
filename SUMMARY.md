@@ -16,7 +16,6 @@
 * [MLOps Tools](mlops/full-stack-and-ops.md)
 * [Feature Stores & Feature Pipelines](mlops/feature-stores-and-feature-pipelines.md)
 * [Model Formats](mlops/model-formats.md)
-* [MLOps E2E Solutions](mlops/mlops-e2e-solutions.md)
 * [AI As Data](mlops/ai-as-data.md)
 * [MLOps Interview Questions](mlops/mlops-interview-questions.md)
 * [Software Patterns](mlops/design-patterns.md)
