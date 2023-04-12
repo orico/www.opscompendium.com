@@ -20,6 +20,7 @@
 * [AI As Data](mlops/ai-as-data.md)
 * [MLOps Interview Questions](mlops/mlops-interview-questions.md)
 * [Software Patterns](mlops/design-patterns.md)
+* [ML Architecture](mlops/ml-architecture.md)
 
 ## DataOps
 
