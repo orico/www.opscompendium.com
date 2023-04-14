@@ -47,6 +47,14 @@
 2. [getting started with SF tasks](https://medium.com/snowflake/getting-started-with-snowflake-tasks-945ecd54c77b) - sql or procedures, schedules, B-tree tasks.
 3. [cost](https://www.phdata.io/blog/what-is-the-snowflake-data-cloud/)
 
+## Chroma
+
+1. AI native open source embedding database, [github](https://github.com/chroma-core/chroma)
+
+## ClickHouse
+
+1. [open source database for real time apps and analytics](https://clickhouse.com/) - think snowflake open source
+
 ## Feature engineering&#x20;
 
 1. [Feature engineering in snowflake](https://towardsdatascience.com/feature-engineering-in-snowflake-1730a1b84e5b)
