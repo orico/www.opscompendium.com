@@ -64,6 +64,7 @@
 
 * [Definitions](devsecops/tbd.md)
 * [Tools](devsecops/tools.md)
+* [Concepts](devsecops/concepts.md)
 
 ## Architecture
 
