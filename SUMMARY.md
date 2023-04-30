@@ -15,6 +15,7 @@
 * [ML Experiment Management](mlops/experiment-management.md)
 * [ML Model Monitoring & Alerts](mlops/mlops-monitoring-and-alerts.md)
 * [MLOps Tools](mlops/full-stack-and-ops.md)
+* [MLOps Deployment](mlops/mlops-deployment.md)
 * [Feature Stores & Feature Pipelines](mlops/feature-stores-and-feature-pipelines.md)
 * [Model Formats](mlops/model-formats.md)
 * [AI As Data](mlops/ai-as-data.md)
