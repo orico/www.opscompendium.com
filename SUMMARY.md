@@ -61,6 +61,7 @@
   * [Infrastructure As code](devops/full-stack-and-ops/infrastructure-as-code.md)
   * [Logs](devops/full-stack-and-ops/logs.md)
   * [ELK](devops/full-stack-and-ops/elk.md)
+  * [SLO](devops/full-stack-and-ops/slo.md)
 
 ## DevSecOps
 
