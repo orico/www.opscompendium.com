@@ -72,3 +72,4 @@
 ## Architecture
 
 * [Problems](architecture/problems.md)
+* [System Design](architecture/system-design.md)
