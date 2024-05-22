@@ -1,6 +1,6 @@
-# Lakes & Warehouses
+# Databases
 
-## Definitions
+## Lakes & Warehouses
 
 1. [What is a DWH? a comprehensive guide](https://www.oracle.com/database/what-is-a-data-warehouse/)
 2. [DataLakeHouse](https://www.firebolt.io/blog/snowflake-vs-databricks-vs-firebolt) - Firebolt comparison with Snowflake vs Databricks.&#x20;
@@ -48,10 +48,6 @@
 2. [getting started with SF tasks](https://medium.com/snowflake/getting-started-with-snowflake-tasks-945ecd54c77b) - sql or procedures, schedules, B-tree tasks.
 3. [cost](https://www.phdata.io/blog/what-is-the-snowflake-data-cloud/)
 
-## Chroma
-
-1. AI native open source embedding database, [github](https://github.com/chroma-core/chroma)
-
 ## ClickHouse
 
 1. [open source database for real time apps and analytics](https://clickhouse.com/) - think snowflake open source
@@ -74,3 +70,9 @@
 ### Databricks Delta Lake
 
 1. [integrating delta lake into other platforms](https://www.databricks.com/blog/integrating-delta-lakehouse-other-platforms)
+
+## Vector Databases
+
+1. Gartner - [Innovation Insight: Vector Databases](https://www.gartner.com/doc/reprints?id=1-2HBZK5EN\&ct=240418\&st=sb)
+2. Chroma - AI native open source embedding database, [github](https://github.com/chroma-core/chroma)
+3.

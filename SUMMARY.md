@@ -27,7 +27,7 @@
 
 * [SQL](dataops/sql.md)
 * [Tools](dataops/tools.md)
-* [Lakes & Warehouses](dataops/lakes-and-warehouses.md)
+* [Databases](dataops/lakes-and-warehouses.md)
 * [Database Modeling](dataops/database-architecture-and-modeling.md)
 * [Data Engineering](dataops/data-engineering.md)
 * [Data Pipelines](dataops/data-pipelines.md)
