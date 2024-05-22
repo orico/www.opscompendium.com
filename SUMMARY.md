@@ -46,6 +46,7 @@
 * [Data Engineering Questions & Training](dataops/data-engineering-questions-and-training.md)
 * [Data Patterns](dataops/patterns.md)
 * [Data Architecture](dataops/data-architecture.md)
+* [Data Platforms](dataops/data-platforms.md)
 
 ## DevOps
 
