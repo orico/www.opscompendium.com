@@ -16,3 +16,14 @@
 <figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+
+5. RDD vs Dataframe vs Dataset
+   1. [2016 official blog post](https://www.databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html)
+   2. [linkedin blog post](https://www.linkedin.com/pulse/rdd-vs-dataframe-dataset-sanyam-jain-iwsfe/)
+   3. [comparison on youtube](https://www.youtube.com/watch?v=aBUqIAGxeg8)
+   4. [RDDs vs. Dataframes vs. Datasets – What is the Difference and Why Should Data Engineers Care?](https://www.analyticsvidhya.com/blog/2020/11/what-is-the-difference-between-rdds-dataframes-and-datasets/)
+6. Optimizations
+   1. [Optimization recommendations on Databricks](https://docs.databricks.com/en/optimizations/index.html)
+   2. [Comprehensive Guide to Optimize Databricks, Spark and Delta Lake Workloads](https://www.databricks.com/discover/pages/optimize-data-workloads-guide)
+   3. [How I Use Caching in Databricks to Increase Performance and Save Costs](https://blog.det.life/caching-in-databricks-explained-68c07bf1f76b)
+   4. [Why and How: Partitioning in Databricks](https://medium.com/@eduard2popa/why-and-how-partitioning-in-databricks-e9e6f960db43)
