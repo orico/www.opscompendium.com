@@ -75,4 +75,3 @@
 
 1. Gartner - [Innovation Insight: Vector Databases](https://www.gartner.com/doc/reprints?id=1-2HBZK5EN\&ct=240418\&st=sb)
 2. Chroma - AI native open source embedding database, [github](https://github.com/chroma-core/chroma)
-3.

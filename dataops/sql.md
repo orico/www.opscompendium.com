@@ -11,3 +11,4 @@
 4. [Primary key](https://www.eukhost.com/blog/webhosting/whats-the-purpose-use-primary-foreign-keys/)
 5. [Foreign key, a key constraint that is included in the primary key allowed values](https://www.1keydata.com/sql/sql-foreign-key.html)
 6. [Index, i.e., book index for fast reading](https://www.tutorialspoint.com/sql/sql-indexes.htm)
+7. [Sharding vs Partioning](https://planetscale.com/learn/articles/sharding-vs-partitioning-whats-the-difference)

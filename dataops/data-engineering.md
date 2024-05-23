@@ -14,5 +14,3 @@
 * [Cap is changing](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
 
 ![](https://lh6.googleusercontent.com/cDV78UprJnSuEkoqVRRzg9K\_a8YlvYAQlJ\_YDj6CRMqypYp0BwFkHhErzcMtt8h0LWKd4cPk3ftCpRyLTMxLNNxCNJ6nAUZNoEh0umdNzsAdIt0IUMDBJT\_uvdWgD9UxHLpHisiS)
-
-###
