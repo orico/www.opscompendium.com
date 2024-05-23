@@ -27,3 +27,5 @@
    2. [Comprehensive Guide to Optimize Databricks, Spark and Delta Lake Workloads](https://www.databricks.com/discover/pages/optimize-data-workloads-guide)
    3. [How I Use Caching in Databricks to Increase Performance and Save Costs](https://blog.det.life/caching-in-databricks-explained-68c07bf1f76b)
    4. [Why and How: Partitioning in Databricks](https://medium.com/@eduard2popa/why-and-how-partitioning-in-databricks-e9e6f960db43)
+7. Best Practices
+   1. [official docs](https://docs.databricks.com/en/delta/best-practices.html)
