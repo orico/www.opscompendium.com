@@ -10,6 +10,9 @@
    1. [Free courses](https://www.databricks.com/training/catalog?costs=free)
    2. [Docs Optimization recommendations](https://docs.databricks.com/en/optimizations/index.html)
    3. [Comprehensive Guide to Optimize Databricks, Spark and Delta Lake Workloads](https://www.databricks.com/discover/pages/optimize-data-workloads-guide)
+   4. [Vector Search](https://www.databricks.com/training/catalog/new-capability-overview-vector-search-2535)
+   5. DB [for ML](https://www.databricks.com/training/catalog/get-started-with-databricks-for-machine-learning-2460)
+   6. [DB for Data Engineering](https://www.databricks.com/training/catalog/get-started-with-databricks-for-data-engineering-1511)
 3. (good) [Introduction & Tutorial](https://medium.com/@chuck.connell.3/databricks-a-history-and-introduction-438ce827227) - cluster / notebook / table / SQL / DataFrame / connections
 4. [must know 7 concepts](https://www.datacamp.com/tutorial/introduction-to-databricks)
 
