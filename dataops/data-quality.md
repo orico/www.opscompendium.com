@@ -13,4 +13,4 @@
 1. [DBT builtin tests](https://docs.getdbt.com/docs/building-a-dbt-project/tests)
 2. [DBT expectations](https://hub.getdbt.com/calogica/dbt\_expectations/0.1.2/)
 3. [DBT custom generic tests](https://docs.getdbt.com/guides/legacy/writing-custom-generic-tests)
-4. [Jinja](https://www.youtube.com/watch?v=OraYXEr0Irg) (used in DBT templates)
+4. [Jinja](https://www.youtube.com/watch?v=OraYXEr0Irg) (used for DBT templates)
