@@ -63,6 +63,7 @@
   * [Logs](devops/full-stack-and-ops/logs.md)
   * [ELK](devops/full-stack-and-ops/elk.md)
   * [SLO](devops/full-stack-and-ops/slo.md)
+* [DevOps Courses](devops/devops-courses.md)
 
 ## DevSecOps
 
