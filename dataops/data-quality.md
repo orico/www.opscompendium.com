@@ -7,6 +7,10 @@
 5. [Dataladder - data quality metrics](https://dataladder.com/10-data-quality-metrics-you-should-measure/)
 6. [Datacademia - data quality metrics](https://datacadamia.com/data/quality/metric)
 7. [Open sistemas - big data challenges - veracity](https://opensistemas.com/en/the-four-vs-of-big-data/)
-8. [DBT builtin tests](https://docs.getdbt.com/docs/building-a-dbt-project/tests)
-9. [DBT expectations](https://hub.getdbt.com/calogica/dbt\_expectations/0.1.2/)
-10. [DBT custom generic tests](https://docs.getdbt.com/guides/legacy/writing-custom-generic-tests)
+
+## DBT
+
+1. [DBT builtin tests](https://docs.getdbt.com/docs/building-a-dbt-project/tests)
+2. [DBT expectations](https://hub.getdbt.com/calogica/dbt\_expectations/0.1.2/)
+3. [DBT custom generic tests](https://docs.getdbt.com/guides/legacy/writing-custom-generic-tests)
+4. [Jinja](https://www.youtube.com/watch?v=OraYXEr0Irg) (used in DBT templates)
