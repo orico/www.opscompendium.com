@@ -20,7 +20,6 @@
 * [Model Formats](mlops/model-formats.md)
 * [AI As Data](mlops/ai-as-data.md)
 * [MLOps Interview Questions](mlops/mlops-interview-questions.md)
-* [Software Patterns](mlops/design-patterns.md)
 * [ML Architecture](mlops/ml-architecture.md)
 
 ## DataOps
@@ -74,4 +73,5 @@
 ## Architecture
 
 * [Problems](architecture/problems.md)
+* [Development Concepts](architecture/development-concepts.md)
 * [System Design](architecture/system-design.md)
