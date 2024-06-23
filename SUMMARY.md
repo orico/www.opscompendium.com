@@ -28,6 +28,7 @@
 * [Tools](dataops/tools.md)
 * [Databases](dataops/lakes-and-warehouses.md)
 * [Database Modeling](dataops/database-architecture-and-modeling.md)
+* [Data Analytics](dataops/data-analytics.md)
 * [Data Engineering](dataops/data-engineering.md)
 * [Data Pipelines](dataops/data-pipelines.md)
 * [Data Strategy](dataops/data-strategy.md)
