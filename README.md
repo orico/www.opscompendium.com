@@ -34,4 +34,4 @@ Please note that this is an ongoing project covering a wide range of topics. If 
 Many Thanks, \
 Dr. Ori Cohen&#x20;
 
-[My Website](https://www.oricohen.com/) |[ Medium](https://medium.com/@cohenori) |[ LinkedIn](https://www.linkedin.com/in/cohenori/) | [ML Compendium](http://www.mlcompendium.com/) | [Ops Compendium](https://www.opscompendium.com/) | [State of GenAI](https://stateofgenai.com/) | [State Of MLOps](https://stateofmlops.com/) |
+[My Website](https://www.oricohen.com/) |[ Medium](https://medium.com/@cohenori) |[ LinkedIn](https://www.linkedin.com/in/cohenori/) | [ML Compendium](http://www.mlcompendium.com/) | [State of GenAI](https://stateofgenai.com/) | [State Of MLOps](https://stateofmlops.com/) |
