@@ -17,7 +17,9 @@ layout:
 
 <figure><img src=".gitbook/assets/the ops compendium banner.png" alt=""><figcaption></figcaption></figure>
 
-The Ops Compendium is your central hub for learning all things Ops—covering areas like MLOps, DataOps, and DevOps. It’s similar to the [Deep Learning & Machine Learning Compendium](https://www.mlcompendium.com/) and is designed as an educational resource. Through it, I aim to help people learn and connect with the amazing authors whose work I’ve summarized, quoted, and referenced.
+The Ops Compendium is your central hub for learning all things Ops—covering 80 topics across MLOps, DataOps, DevOps, DevSecOps, Architecture, and is continuously being updated. It’s similar to the [Deep Learning & Machine Learning Compendium](https://www.mlcompendium.com/) and is designed as an educational resource. Through it, I aim to help people learn and connect with the amazing authors whose work I’ve summarized, quoted, and referenced.
+
+<figure><img src=".gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 The Ops Compendium is a fully open project on [GitHub](https://github.com/orico/www.opscompendium.com) (please star it!).&#x20;
 
