@@ -2,9 +2,9 @@
 description: The central hub for learning all things Ops.
 layout:
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -14,6 +14,8 @@ layout:
 ---
 
 # The Ops Compendium
+
+<figure><img src=".gitbook/assets/the ops compendium banner.png" alt=""><figcaption></figcaption></figure>
 
 The Ops Compendium is your central hub for learning all things Ops—covering areas like MLOps, DataOps, and DevOps. It’s similar to the [Deep Learning & Machine Learning Compendium](https://www.mlcompendium.com/) and is designed as an educational resource. Through it, I aim to help people learn and connect with the amazing authors whose work I’ve summarized, quoted, and referenced.
 
