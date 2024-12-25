@@ -47,7 +47,7 @@
 * [Data Patterns](dataops/patterns.md)
 * [Data Architecture](dataops/data-architecture.md)
 * [Data Platforms](dataops/data-platforms.md)
-
+* [Data Lineage](dataops/data-lineage.md)
 ## DevOps
 
 * [DevOps Strategy](devops/devops-strategy.md)
