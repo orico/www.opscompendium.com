@@ -20,5 +20,5 @@
     2. [scalability for dummies](https://web.archive.org/web/20221030091841/http://www.lecloud.net/tagged/scalability/chrono) [1](https://web.archive.org/web/20220530193911/https://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones) [2](https://web.archive.org/web/20220602114024/https://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database) [3](https://web.archive.org/web/20230126233752/https://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache) [4](https://web.archive.org/web/20220926171507/https://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
     3. (good for topics) [Scalability, Availability & Stability Patterns](https://www.slideshare.net/slideshow/scalability-availability-stability-patterns/4062682)
     4. (good) [Use Back-of-the-envelope-calculations to Choose the Best Design](https://highscalability.com/google-pro-tip-use-back-of-the-envelope-calculations-to-choo/)
-11.
+11. [System Design Guided Practice](https://bugfree.ai/) - AI-Powered platform provided guided practice on system design problem and behavior questions like the way you do at Leetcode.
 
