@@ -3,7 +3,7 @@
 * [The Ops Compendium](README.md)
 * [Definitions](chatgpt-definitions.md)
   * [Ops Definition Comparisons](ops-definitions.md)
-* [ML & DL Compendium](https://book.mlcompendium.com)
+* [ML & DL Compendium](https://www.mlcompendium.com/)
 
 ## MLOps
 
@@ -48,6 +48,7 @@
 * [Data Architecture](dataops/data-architecture.md)
 * [Data Platforms](dataops/data-platforms.md)
 * [Data Lineage](dataops/data-lineage.md)
+
 ## DevOps
 
 * [DevOps Strategy](devops/devops-strategy.md)
