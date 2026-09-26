@@ -2,20 +2,20 @@
 
 This page covers database types, warehouse modeling, data fabric, virtualization, and deployment tools.
 
-1. [Types of DBs](https://simonatta.medium.com/database-types-2dac81461709)
+- [Types of DBs](https://simonatta.medium.com/database-types-2dac81461709)
 
 ## Data Warehouse
 
 This section points at a guide from strategy to implementation for data warehouses.
 
-1. (good) [a guide from strategy to implementation](https://www.analytics8.com/blog/what-is-a-data-warehouse/)
+- (good) [a guide from strategy to implementation](https://www.analytics8.com/blog/what-is-a-data-warehouse/)
 
 ## Data Vault Modeling
 
 This section defines data vault modeling and how hubs, links, and satellites fit a lakehouse.
 
-1. [**Data vault modeling**](https://en.wikipedia.org/wiki/Data_vault_modeling) is a [database](https://en.wikipedia.org/wiki/Database) modeling method that is designed to provide long-term historical storage of [data](https://en.wikipedia.org/wiki/Data) coming in from multiple operational systems. It is also a method of looking at historical data that deals with issues such as auditing, tracing of data, loading speed and resilience to change as well as emphasizing the need to trace where all the data in the database came from. This means that every [row](https://en.wikipedia.org/wiki/Row_(database)) in a data vault must be accompanied by record source and load date attributes, enabling an auditor to trace values back to the source. It was developed by [Daniel (Dan) Linstedt](https://en.wikipedia.org/w/index.php?title=Daniel_Linstedt&action=edit&redlink=1) in 2000. — Wikipedia
-2. It is a design pattern to build a DWH for enterprise analytics. It has hubs (core business concepts), links (relationships between hubs), and satellites that store info about these two. Good for the lakehouse paradigm. [link has a good image.](https://www.databricks.com/glossary/data-vault) — Databricks
+- [**Data vault modeling**](https://en.wikipedia.org/wiki/Data_vault_modeling) is a [database](https://en.wikipedia.org/wiki/Database) modeling method that is designed to provide long-term historical storage of [data](https://en.wikipedia.org/wiki/Data) coming in from multiple operational systems. It is also a method of looking at historical data that deals with issues such as auditing, tracing of data, loading speed and resilience to change as well as emphasizing the need to trace where all the data in the database came from. This means that every [row](https://en.wikipedia.org/wiki/Row_(database)) in a data vault must be accompanied by record source and load date attributes, enabling an auditor to trace values back to the source. It was developed by [Daniel (Dan) Linstedt](https://en.wikipedia.org/w/index.php?title=Daniel_Linstedt&action=edit&redlink=1) in 2000. — Wikipedia
+- It is a design pattern to build a DWH for enterprise analytics. It has hubs (core business concepts), links (relationships between hubs), and satellites that store info about these two. Good for the lakehouse paradigm. [link has a good image.](https://www.databricks.com/glossary/data-vault) — Databricks
 
 ## Data Fabric
 
@@ -35,10 +35,10 @@ This section defines data fabric and points at NetApp, IBM, Gartner, and mesh-vs
 
 This section points at a single view of data without moving it.
 
-1. [data virtualization](https://www.ibm.com/analytics/data-virtualization) — single view without movement of data.
+- [data virtualization](https://www.ibm.com/analytics/data-virtualization) — single view without movement of data.
 
 ## Tools for deploying data models
 
 This section points at tools for deploying data models in production.
 
-1. [tools for deploying data models in prod](https://www.superdatascience.com/podcast/tools-for-deploying-data-models-into-production)
+- [tools for deploying data models in prod](https://www.superdatascience.com/podcast/tools-for-deploying-data-models-into-production)

@@ -6,7 +6,7 @@ This page covers software design patterns and core programming concepts like dep
 
 This section is a curated list of software and architectural design patterns.
 
-1. [Software and architectural design patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [Software and architectural design patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 <figure><img src="../.gitbook/assets/gimg-d9bb97d36ff5.png" alt=""><figcaption><p>DovAmir</p><p>Credit: <a href="https://lh4.googleusercontent.com/qgvN9nWhe0NRVvcvILrJsF2UeAqZ4H8CIcAUWOBMsXlFEAxhvNCnfQiFrwtLgiXaN1DiziRZ-cjefQzwaBWjtpE3q5SDRlZ9m6-sdJ0NtFnCs4CB4ZSk9Ay9G9X0U6Gy6cLy8_nM">copied from the original hosted image.</a></p></figcaption></figure>
 

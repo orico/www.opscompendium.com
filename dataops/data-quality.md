@@ -14,7 +14,7 @@ This page lists articles and metrics on data quality, then dbt testing tools.
 
 This section lists dbt built-in tests, expectations, custom tests, and Jinja for templates.
 
-1. [DBT builtin tests](https://docs.getdbt.com/docs/building-a-dbt-project/tests)
-2. [DBT expectations](https://hub.getdbt.com/calogica/dbt_expectations/0.1.2/)
-3. [DBT custom generic tests](https://docs.getdbt.com/guides/legacy/writing-custom-generic-tests)
-4. [Jinja](https://www.youtube.com/watch?v=OraYXEr0Irg) (used for DBT templates)
+- [DBT builtin tests](https://docs.getdbt.com/docs/building-a-dbt-project/tests)
+- [DBT expectations](https://hub.getdbt.com/calogica/dbt_expectations/0.1.2/)
+- [DBT custom generic tests](https://docs.getdbt.com/guides/legacy/writing-custom-generic-tests)
+- [Jinja](https://www.youtube.com/watch?v=OraYXEr0Irg) (used for DBT templates)

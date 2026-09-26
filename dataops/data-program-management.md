@@ -3,7 +3,7 @@
 This page points at definitions and role notes for data program management.
 
 1. [What is a data program management? and a manager.](https://www.ddmcd.com/dpm-intro) by Dennis D McDonald.
-   1. [http://www.ddmcd.com/dpm](http://www.ddmcd.com/dpm)
+   - [http://www.ddmcd.com/dpm](http://www.ddmcd.com/dpm)
 2. [https://rebelsguidetopm.com/what-is-a-program-manager/#What_is_a_program](https://rebelsguidetopm.com/what-is-a-program-manager/#What_is_a_program)
 3. [https://www.velvetjobs.com/job-descriptions/data-program-manager](https://www.velvetjobs.com/job-descriptions/data-program-manager)
 4. [https://rebelsguidetopm.com/what-is-a-program-manager/](https://rebelsguidetopm.com/what-is-a-program-manager/)

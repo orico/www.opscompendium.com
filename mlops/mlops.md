@@ -73,8 +73,8 @@ Loading and storing data, in the docs.
 
 This section is two end-to-end systems and the tools each one uses.
 
-1. An MLOps end-to-end system, "[You dont need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)", using Metaflow, Snowflake, DBT, Prefect, Great Expectations, Weights & Biases, SageMaker, and Lambda.
-2. [A simplistic end-to-end system](https://github.com/jacopotagliabue/post-modern-stack): Snowflake, DBT, S3, CometML, Reclist, and SageMaker.
+- An MLOps end-to-end system, "[You dont need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)", using Metaflow, Snowflake, DBT, Prefect, Great Expectations, Weights & Biases, SageMaker, and Lambda.
+- [A simplistic end-to-end system](https://github.com/jacopotagliabue/post-modern-stack): Snowflake, DBT, S3, CometML, Reclist, and SageMaker.
 
 ## Deprecated links
 

@@ -89,13 +89,13 @@ This section lists Spark join strategies, DataFrame vs Dataset, and AQE notes.
 2. [Join strategies #1](https://medium.com/datakaresolutions/optimize-spark-sql-joins-c81b4e3ed7da), [Join strategies #2](https://medium.com/data-science/strategies-of-spark-join-c0e7b4572bcf) — how? Pros and cons. (broadcast hash, shuffle hash, shuffle sort merge, cartesian).
 3. What’s the difference between a data frame and a dataset?
 4. [Sort merge vs broadcast](https://medium.com/swlh/spark-joins-tuning-part-1-sort-merge-vs-broadcast-a98d82610cf0)
-   1. broadcast join is 4 times faster if one of the table is small and enough to fit in memory
-   2. Is broadcasting always a good solution? Absolutely no. If you are joining two data sets both are very large broadcasting any table would kill your spark cluster and fails your job.
+   - broadcast join is 4 times faster if one of the table is small and enough to fit in memory
+   - Is broadcasting always a good solution? Absolutely no. If you are joining two data sets both are very large broadcasting any table would kill your spark cluster and fails your job.
 5. [Shuffle & AQE](https://medium.com/@sivaprasad-mandapati/spark-joins-tuning-part-2-shuffle-partitions-aqe-8688cb23317b)
-   1. Adaptive Query Execution (AQE) is an optimization technique in Spark SQL that makes use of the runtime statistics to choose the most efficient query execution plan.
-   2. Dynamically coalescing shuffle partitions
-   3. Dynamically switching join strategies
-   4. Dynamically optimizing skew joins
+   - Adaptive Query Execution (AQE) is an optimization technique in Spark SQL that makes use of the runtime statistics to choose the most efficient query execution plan.
+   - Dynamically coalescing shuffle partitions
+   - Dynamically switching join strategies
+   - Dynamically optimizing skew joins
 
 ## BigQuery
 
@@ -123,11 +123,11 @@ This section lists ways to protect against bad data and related tools.
 
 1. How can you protect yourself from bad data? Data validation, TDDA, monitoring.
 2. Tools:
-   1. Type validation: [typeguard](https://github.com/agronholm/typeguard)
-   2. Data validation [pydantic](https://pydantic-docs.helpmanual.io/usage/dataclasses/)
-   3. Test driven: [tdda](https://github.com/tdda/tdda)
-   4. Data quality: [great expectations](https://greatexpectations.io/)
-   5. Saas: [SuperConductive by GE](https://superconductive.ai/)
+   - Type validation: [typeguard](https://github.com/agronholm/typeguard)
+   - Data validation [pydantic](https://pydantic-docs.helpmanual.io/usage/dataclasses/)
+   - Test driven: [tdda](https://github.com/tdda/tdda)
+   - Data quality: [great expectations](https://greatexpectations.io/)
+   - Saas: [SuperConductive by GE](https://superconductive.ai/)
 
 ## File formats
 
@@ -167,8 +167,8 @@ This section points at system design interview practice, including an API rate l
 
 <figure><img src="../.gitbook/assets/9" alt=""><figcaption><p>System design</p></figcaption></figure>
 
-* How would you design and implement an API rate limiter?
-  1. [The twitter question](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/twitter/README.md)
+- How would you design and implement an API rate limiter?
+   1. [The twitter question](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/twitter/README.md)
 
 <figure><img src="../.gitbook/assets/10" alt=""><figcaption><p>The twitter question</p></figcaption></figure>
 

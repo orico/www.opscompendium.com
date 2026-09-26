@@ -4,11 +4,11 @@ This page collects introductions, principles, topologies, and practice notes on 
 
 1. What is a [data mesh](https://databricks.com/session_na20/data-mesh-in-practice-how-europes-leading-online-platform-for-fashion-goes-beyond-the-data-lake)? and in practice.
 2. Zhamak Dehghani
-   1. [Introduction to Data Mesh](https://www.youtube.com/watch?v=_bmYXWCxF_Q)
-   2. [how to move from data lake to distributed data mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
-   3. [principles and logical architecture](https://martinfowler.com/articles/data-mesh-principles.html)
-   4. (good) [Keynote - Data Mesh by Zhamak Dehghani](https://www.youtube.com/watch?v=L_-fHo0ZkAo) (oltp→etl→olap is broken)
-   5. [lessons from the trenches](https://www.youtube.com/watch?v=Nw_bxIyR1L0)
+   - [Introduction to Data Mesh](https://www.youtube.com/watch?v=_bmYXWCxF_Q)
+   - [how to move from data lake to distributed data mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
+   - [principles and logical architecture](https://martinfowler.com/articles/data-mesh-principles.html)
+   - (good) [Keynote - Data Mesh by Zhamak Dehghani](https://www.youtube.com/watch?v=L_-fHo0ZkAo) (oltp→etl→olap is broken)
+   - [lessons from the trenches](https://www.youtube.com/watch?v=Nw_bxIyR1L0)
 3. [lake vs mesh, he probably means fabric vs mesh](https://medium.com/codex/data-lakehouse-vs-data-mesh-bfa1132f94b)
 4. [data mesh 101](https://www.youtube.com/watch?v=hgKOpEQaqdY&list=PLa7VYi0yPIH0L8ahQYbyBFkGc6a949-Lj&index=10) — by Confluent
 5. (good) [mesh topologies](https://medium.com/data-science/data-mesh-topologies-and-domain-granularity-65290a4ebb90) — by Piethein Strengholt

@@ -12,7 +12,7 @@ This section is NGINX as web server, reverse proxy, load balancer, and API gatew
 2. Cloudflare on [what is a reverse proxy](https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/)
 3. From the NGINX blog:
 
-> [One advantage of using NGINX as an API gateway](https://www.nginx.com/blog/deploying-nginx-plus-as-an-api-gateway-part-1/) is that it can perform that role while simultaneously acting as a reverse proxy, load balancer, and web server for existing HTTP traffic. If NGINX is already part of your application delivery stack then it is generally unnecessary to deploy a separate API gateway
+   > [One advantage of using NGINX as an API gateway](https://www.nginx.com/blog/deploying-nginx-plus-as-an-api-gateway-part-1/) is that it can perform that role while simultaneously acting as a reverse proxy, load balancer, and web server for existing HTTP traffic. If NGINX is already part of your application delivery stack then it is generally unnecessary to deploy a separate API gateway
 
 ## Deprecated links
 

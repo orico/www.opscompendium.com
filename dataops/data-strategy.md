@@ -4,16 +4,16 @@ This page collects guides, frameworks, and articles on building a data strategy.
 
 1. (excellent) [how to get started](https://medium.com/data-science/data-strategy-716059d5c066)
 2. Analytics 8 (excellent)
-   1. [7 elements of data strategy](https://www.analytics8.com/blog/7-elements-of-a-data-strategy/) — you can deep dive into other articles
-   2. [7 tips for strong data infra](https://www.analytics8.com/blog/7-tips-for-strong-data-infrastructure/)
-   3. [step 2/5 how to develop it](https://www.analytics8.com/blog/how-to-develop-data-strategy-roadmap/)
+   - [7 elements of data strategy](https://www.analytics8.com/blog/7-elements-of-a-data-strategy/) — you can deep dive into other articles
+   - [7 tips for strong data infra](https://www.analytics8.com/blog/7-tips-for-strong-data-infrastructure/)
+   - [step 2/5 how to develop it](https://www.analytics8.com/blog/how-to-develop-data-strategy-roadmap/)
 3. (very good) [research data strategy - for research orgs](https://medium.com/data-science/research-data-strategy-2fd447f83719)
 4. [how to create an effective DS](https://medium.com/method-perspectives/how-to-create-an-effective-data-strategy-ffedb1bdc71a) — helps to ask the right questions on several topics
 5. (needed) [RACI matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) by Wikipedia
 6. [How to build an actionable data strategy phdata.io](https://www.phdata.io/blog/how-to-build-an-actionable-data-strategy-framework/)
 7. Two-part article:
-   1. [how to create a data strategy for your org](https://medium.com/data-science/how-to-create-a-data-strategy-for-your-organization-e0493110b2e7)
-   2. [how to create a perfect data strategy](https://medium.com/data-science/how-to-create-a-perfect-data-strategy-7e8fd9bbfad0)
+   - [how to create a data strategy for your org](https://medium.com/data-science/how-to-create-a-data-strategy-for-your-organization-e0493110b2e7)
+   - [how to create a perfect data strategy](https://medium.com/data-science/how-to-create-a-perfect-data-strategy-7e8fd9bbfad0)
 8. [a step by step guide](https://medium.com/data-science/data-strategy-a-step-by-step-guide-91529a75c72b)
 9. [why is your data strategy failing](https://medium.com/geekculture/why-your-data-strategy-is-failing-19e569b6b082)
 10. [Become Data-Driven or Perish: Why your company needs a Data Strategy and not just more Data People](https://medium.com/data-science/become-data-driven-or-perish-why-your-company-needs-a-data-strategy-and-not-just-more-data-people-aa5d435c2f9)
