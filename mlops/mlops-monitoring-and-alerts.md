@@ -6,9 +6,9 @@ This page covers monitoring and alerts for production ML: observability reading,
 
 This section is reading on monitoring models, dependencies, features, and production performance.
 
-* [Monitor! Stop being a blind DS](http://web.archive.org/web/20200324033112/https://towardsdatascience.com/monitor-stop-being-a-blind-data-scientist-ac915286075f)
-* [Monitor your dependencies! Stop being a blind DS](https://medium.com/data-science/monitor-your-dependencies-stop-being-a-blind-data-scientist-a3150bd64594)
-* [Data science observability for executives](https://medium.com/data-science/data-science-observability-for-executives-a054411faecc)
+* [Monitor! Stop being a blind DS](https://cohenori.medium.com/monitor-stop-being-a-blind-data-scientist-ac915286075f)
+* [Monitor your dependencies! Stop being a blind DS](https://cohenori.medium.com/monitor-your-dependencies-stop-being-a-blind-data-scientist-a3150bd64594)
+* [Data science observability for executives](https://cohenori.medium.com/data-science-observability-for-executives-a054411faecc)
 * [Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://medium.com/data-science/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158), [youtube](https://www.youtube.com/watch?v=QcevzK9ZuDg), uses [alibi-explain](https://docs.google.com/document/d/1dXELAcJn9KCPSRMDvZoumUyHx8K8Yn7wfFxesSpbNCM/edit#heading=h.xs1o8m3ro5iy) (see compendium) and Ali-detect (see compendium)
 * [MLflow, HyperparameterHunter, Hyperopt, concept drift, unit tests](https://medium.com/data-science/putting-ml-in-production-ii-logging-and-monitoring-algorithms-91f174044e4e), Javier Rodriguez Zaurin.
 * [Meta anomaly over multiple models, aggregate](https://www.anodot.com/blog/monitoring-machine-learning/)
@@ -38,7 +38,7 @@ This subsection is data drift, concept drift, estimators, and Alibi Detect.
 
 This subsection compares MLOps monitoring landscapes and curated tool lists.
 
-1. [State of MLOps](https://www.stateofmlops.com) (by me), [Medium](https://medium.com/data-science/mlops-monitoring-market-review-66904f0863bb) article, open-source [Airtable](https://airtable.com/shr4rfiuOIVjMhvhL).
+1. [State of MLOps](https://www.stateofmlops.com) (by me), [Medium](https://cohenori.medium.com/mlops-monitoring-market-review-66904f0863bb) article, open-source [Airtable](https://airtable.com/shr4rfiuOIVjMhvhL).
 2. [MLOps.toys](https://mlops.toys/) — A curated list of MLOps projects by [Aporia](http://web.archive.org/web/20260725060446/https://www.aporia.com/)
 3. [Neptune.AI](http://web.archive.org/web/20230610222659/https://mlops.neptune.ai/) MLOps tools landscape
 4. [Ambiata](https://www.ambiata.com/blog/2020-12-07-mlops-tools/) how to choose the best MLOps tools
@@ -55,9 +55,6 @@ This subsection compares MLOps monitoring landscapes and curated tool lists.
 These links and images no longer work. The original wording is kept here. A same-resource copy, when one was checked, is used above.
 {% endhint %}
 
-- Monitor! Stop being a blind DS. This address no longer opens: https://towardsdatascience.com/monitor-stop-being-a-blind-data-scientist-ac915286075f
-- Monitor your dependencies! Stop being a blind DS. This address no longer opens: https://towardsdatascience.com/monitor-your-dependencies-stop-being-a-blind-data-scientist-a3150bd64594
-- Data science observability for executives. This address no longer opens: https://towardsdatascience.com/data-science-observability-for-executives-a054411faecc
 - Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance. This address no longer opens: https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158
 - Mlflow, Hyperparameterhunter,hyperopt, concept drift, unit tests. This address no longer opens: https://towardsdatascience.com/putting-ml-in-production-ii-logging-and-monitoring-algorithms-91f174044e4e
 - Monitor ML features using Amazon SageMaker Feature Store and AWS Glue DataBrew. This address no longer opens: https://towardsdatascience.com/monitor-ml-features-using-amazon-sagemaker-feature-store-and-aws-glue-databrew-c530abcc479a
@@ -68,7 +65,6 @@ These links and images no longer work. The original wording is kept here. A same
 - Some advice on medium. This address no longer opens: https://towardsdatascience.com/concept-drift-and-model-decay-in-machine-learning-a98a809ea8d4
 - What is concept drift and why does it go undetected. Breaking down concept drit and explaining the best methods to avoid it. This address no longer opens: https://censius.ai/blogs/what-is-concept-drift-and-why-does-it-go-undetected
 - How does data drift hamper AI performance. Understand how data drift affect peak AI performance and how you can detect it. This address no longer opens: https://censius.ai/blogs/data-drift-barrier-to-ai-performance
-- medium article (State of MLOps). This address no longer opens: https://towardsdatascience.com/mlops-monitoring-market-review-66904f0863bb
 - by Aporia. This address no longer opens: https://aporia.com
 - Neptune.AI MLOPS tools landscape. This address no longer opens: https://mlops.neptune.ai/
 - Twimlai ML AI solutions. This address no longer opens: https://twimlai.com/solutions/
