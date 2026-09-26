@@ -1,5 +1,10 @@
 # MLOps Course
 
-1. Weights & Biases
-   1. [Effective MLOPS for data scientists](https://www.wandb.courses/courses/effective-mlops-model-development)
-   2. [CI/CD using GitOps & W\&B](https://www.wandb.courses/courses/ci-cd-for-machine-learning)
+This page points at Weights & Biases courses on MLOps and on CI/CD.
+
+## Weights & Biases
+
+This section is two Weights & Biases courses.
+
+- [Effective MLOps for data scientists](https://www.wandb.courses/courses/effective-mlops-model-development)
+- [CI/CD using GitOps and W&B](https://www.wandb.courses/courses/ci-cd-for-machine-learning)

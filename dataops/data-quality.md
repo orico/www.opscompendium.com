@@ -1,5 +1,7 @@
 # Data Quality
 
+This page lists articles and metrics on data quality, then dbt testing tools.
+
 1. [why cant data quality be fixed with tech](https://www.analytics8.com/blog/why-data-quality-cannot-be-fixed-with-technology/)
 2. [CloverDX - data quality](https://www.cloverdx.com/explore/data-quality)
 3. [CloverDX - 6 Data Quality Metrics You Can't Afford To Ignore](https://www.cloverdx.com/blog/6-data-quality-metrics-you-cant-ignore)
@@ -10,7 +12,9 @@
 
 ## DBT
 
+This section lists dbt built-in tests, expectations, custom tests, and Jinja for templates.
+
 1. [DBT builtin tests](https://docs.getdbt.com/docs/building-a-dbt-project/tests)
-2. [DBT expectations](https://hub.getdbt.com/calogica/dbt\_expectations/0.1.2/)
+2. [DBT expectations](https://hub.getdbt.com/calogica/dbt_expectations/0.1.2/)
 3. [DBT custom generic tests](https://docs.getdbt.com/guides/legacy/writing-custom-generic-tests)
 4. [Jinja](https://www.youtube.com/watch?v=OraYXEr0Irg) (used for DBT templates)

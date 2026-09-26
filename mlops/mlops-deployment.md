@@ -1,5 +1,12 @@
 # MLOps Deployment
 
-1. [Lightning](https://lightning.ai/) - A Framework to train and deploy PyTorch models. Focus on the science, not the engineering
-   1. Lightning Apps - Framework to build composable, reactive ML workflows. Bye YAML + k8s, hello Python.
-   2. [Examples](https://lightning.ai/docs/app/stable/#build-self-contained-components)
+This page is about deploying models, starting with Lightning for PyTorch.
+
+## Lightning
+
+This section is Lightning, a framework for training and deploying PyTorch models.
+
+[Lightning](https://lightning.ai/): a framework to train and deploy PyTorch models. Focus on the science, not the engineering.
+
+- Lightning Apps: a framework to build composable, reactive ML workflows. Bye YAML and Kubernetes, hello Python.
+- [Examples](https://lightning.ai/docs/app/stable/#build-self-contained-components)

@@ -1,3 +1,5 @@
 # Concepts
 
-1. (cool) [simplified concepts of infosec ](https://securityzines.com/)by Rohit & Anshu
+This page points at a simplified set of information-security concepts.
+
+(cool) [Simplified concepts of infosec](https://securityzines.com/) by Rohit and Anshu.
